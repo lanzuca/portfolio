@@ -102,6 +102,7 @@ gap: 30px;
 .formacao-extra span {
   color: #8f8f8f;
 }
+
 .formacao-extra h3 {
   font-size: 0.875rem;
   line-height: 1.4;
@@ -135,6 +136,10 @@ gap: 30px;
 
 .idiomas li {
   margin-bottom: 20px;
+}
+
+.idiomas a span {
+  color: #B629FA;
 }
 
 .idiomas h3::before {
